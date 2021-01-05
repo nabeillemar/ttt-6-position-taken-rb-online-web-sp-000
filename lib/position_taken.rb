@@ -6,3 +6,5 @@ def position_taken?(board, index)
   end
   return true
 end
+
+puts position_taken?(board, index)
